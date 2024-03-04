@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/abhyudit/tb_ws/install/ros_ign_interfaces/include/**",
+        "/home/abhyudit/tb_ws/install/ros_gz_sim/include/**",
+        "/home/abhyudit/tb_ws/install/ros_gz_bridge/include/**",
+        "/home/abhyudit/tb_ws/install/ros_gz_interfaces/include/**",
+        "/home/abhyudit/tb_ws/install/asl_tb3_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/abhyudit/orb_slam3_ws/src/orbslam3_ros2/include/**",
+        "include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

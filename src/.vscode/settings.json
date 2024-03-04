@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/abhyudit/tb_ws/install/ros_ign_interfaces/local/lib/python3.10/dist-packages",
+        "/home/abhyudit/tb_ws/install/ros_gz_interfaces/local/lib/python3.10/dist-packages",
+        "/home/abhyudit/tb_ws/install/asl_tb3_examples/local/lib/python3.10/dist-packages",
+        "/home/abhyudit/tb_ws/install/asl_tb3_lib/local/lib/python3.10/dist-packages",
+        "/home/abhyudit/tb_ws/install/asl_tb3_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/abhyudit/tb_ws/install/ros_ign_interfaces/local/lib/python3.10/dist-packages",
+        "/home/abhyudit/tb_ws/install/ros_gz_interfaces/local/lib/python3.10/dist-packages",
+        "/home/abhyudit/tb_ws/install/asl_tb3_examples/local/lib/python3.10/dist-packages",
+        "/home/abhyudit/tb_ws/install/asl_tb3_lib/local/lib/python3.10/dist-packages",
+        "/home/abhyudit/tb_ws/install/asl_tb3_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
